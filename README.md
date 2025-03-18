@@ -1,7 +1,18 @@
 # Rules
 
 1. Register to the event: [Tiny Shiny AI Hackathon](https://events.ringcentral.com/events/appsilon-s-tiny-shiny-ai-hackathon)
-2. Create a PR back to this repository from the forked one BEFORE THE EVENT END TIME 7 PM CET
+2. Create a PR back to this repository from the forked one BEFORE THE EVENT END TIME 7 PM CET.
+3. PR needs to contain a working Shiny application with the task solution and the description of the AI tools used in the development.
+
+# Task
+
+All participants have the same task: to recreate FDA Adverse Event Reporting System (FAERS) Public Dashboard. [Application](https://fis.fda.gov/sense/app/95239e26-e0be-42d9-a960-9a5f7f1c25ee/sheet/7a47a261-d58b-4203-a8aa-6d3021737452/state/analysis), [Description](https://www.fda.gov/drugs/fdas-adverse-event-reporting-system-faers/fda-adverse-event-reporting-system-faers-public-dashboard)
+1. Note that it is not meant to be a pixel-perfect copy. Custom ideas for design, user experience, feature improvements are welcomed and will be taken into consideration during the assessment process.
+2. The data used on the dashboard should be mocked
+3. The task is on purpose too complex to be finalised within the 4 hours time slot. The goal is to use AI-coding tools as a support and showcase the possibilities of the LLM-based development.
+
+![image](https://github.com/user-attachments/assets/0d069db5-992c-4c16-b210-c3e7f8ea2955)
+
 
 
 # Appsilon’s Tiny Shiny Hackathon: Build, Compete, and Win!
